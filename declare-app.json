@@ -1,0 +1,12 @@
+{
+  "id": "dice",
+  "title": "Dice",
+  "label": "Dice",
+  "main": "dice.declare",
+  "glyph": "⚀",
+  "hue1": "#FFD60A",
+  "hue2": "#D9A21B",
+  "blurb": "Big dice to throw — d4 through d20, with a running total.",
+  "width": 380,
+  "height": 460
+}
